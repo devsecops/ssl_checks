@@ -1,0 +1,1 @@
+for i in `cat EXTERNAL`; do echo -e "\n----START "$i"----" ; echo | openssl s_client -connect "$i":443 2>/dev/null | openssl x509 -noout -dates; echo -e "----END "$i"----"; done > ssl-Dates-Output.txt
