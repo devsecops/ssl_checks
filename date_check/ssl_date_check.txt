@@ -1,0 +1,48 @@
+
+----START google.com----
+notBefore=Jan  1 00:00:00 2015 GMT
+notAfter=Jan  1 00:00:00 2030 GMT
+----END google.com----
+
+----START yahoo.com----
+notBefore=Jul 12 00:00:00 2022 GMT
+notAfter=Jan  4 23:59:59 2023 GMT
+----END yahoo.com----
+
+----START facebook.com----
+notBefore=Aug 15 00:00:00 2022 GMT
+notAfter=Nov 13 23:59:59 2022 GMT
+----END facebook.com----
+
+----START bing.com----
+notBefore=Sep  3 01:06:28 2022 GMT
+notAfter=Mar  3 01:06:28 2023 GMT
+----END bing.com----
+
+----START instagram.com----
+notBefore=Aug 15 00:00:00 2022 GMT
+notAfter=Nov 13 23:59:59 2022 GMT
+----END instagram.com----
+
+----START twitter.com----
+notBefore=Dec 13 00:00:00 2021 GMT
+notAfter=Dec 12 23:59:59 2022 GMT
+----END twitter.com----
+
+----START wikipedia.com----
+notBefore=Sep 13 05:29:00 2022 GMT
+notAfter=Dec 12 05:28:59 2022 GMT
+----END wikipedia.com----
+
+----START amazon.com----
+notBefore=Oct 19 00:00:00 2022 GMT
+notAfter=Oct 18 23:59:59 2023 GMT
+----END amazon.com----
+
+----START walmart.com----
+     walmart.com is not available
+----END walmart.com----
+
+----START netflix.com----
+     netflix.com is not available
+----END netflix.com----
